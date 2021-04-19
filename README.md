@@ -3,7 +3,7 @@ You can check out the README.pdf to check out the details of this project
 
 
 Overview: 
-I created a basic shell program which has the ability to execute commands which are entered by a user in q Linux terminal. 
+I created a basic shell program which has the ability to execute commands which are entered by a user in a Linux terminal. 
 
 The basic information of this program is:
 •	char input  is used to store tokens
